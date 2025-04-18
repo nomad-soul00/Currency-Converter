@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.Poppins {
+    font-family: Poppins;
+}
+
+.border-test{
+    border: 2px solid red;
+}
